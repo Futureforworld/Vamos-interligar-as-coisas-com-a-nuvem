@@ -1,0 +1,144 @@
+8792 : 2024-10-26 20:33:25,217 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241026203324826].
+8792 : 2024-10-26 20:33:25,218 : INFO : telemetry.records : 1 cache files to upload.
+8792 : 2024-10-26 20:33:25,219 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241026203324826\cache into 1 records.
+8792 : 2024-10-26 20:33:25,221 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241026203324826
+8792 : 2024-10-26 20:33:25,277 : INFO : telemetry.client : Accumulated 2 events. Flush the clients.
+8792 : 2024-10-26 20:33:25,280 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+8792 : 2024-10-26 20:33:25,866 : INFO : telemetry.sender : Sending 8029 bytes
+8792 : 2024-10-26 20:33:25,868 : INFO : telemetry.sender : Finish uploading in 0.587930 seconds.
+7944 : 2024-10-26 20:37:05,760 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241026203705430].
+7944 : 2024-10-26 20:37:05,760 : INFO : telemetry.records : 1 cache files to upload.
+7944 : 2024-10-26 20:37:05,761 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241026203705430\cache into 1 records.
+7944 : 2024-10-26 20:37:05,762 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241026203705430
+7944 : 2024-10-26 20:37:05,808 : INFO : telemetry.client : Accumulated 2 events. Flush the clients.
+7944 : 2024-10-26 20:37:05,809 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+7944 : 2024-10-26 20:37:06,364 : INFO : telemetry.sender : Sending 8029 bytes
+7944 : 2024-10-26 20:37:06,365 : INFO : telemetry.sender : Finish uploading in 0.556117 seconds.
+5904 : 2024-10-27 17:22:32,540 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027172232185].
+5904 : 2024-10-27 17:22:32,541 : INFO : telemetry.records : 1 cache files to upload.
+5904 : 2024-10-27 17:22:32,542 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027172232185\cache into 1 records.
+5904 : 2024-10-27 17:22:32,544 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027172232185
+5904 : 2024-10-27 17:22:32,590 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+5904 : 2024-10-27 17:22:32,591 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+5904 : 2024-10-27 17:22:33,202 : INFO : telemetry.sender : Sending 4555 bytes
+5904 : 2024-10-27 17:22:33,203 : INFO : telemetry.sender : Finish uploading in 0.611787 seconds.
+12112 : 2024-10-27 17:29:12,419 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027172912086].
+12112 : 2024-10-27 17:29:12,420 : INFO : telemetry.records : 1 cache files to upload.
+12112 : 2024-10-27 17:29:12,421 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027172912086\cache into 1 records.
+12112 : 2024-10-27 17:29:12,423 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027172912086
+12112 : 2024-10-27 17:29:12,468 : INFO : telemetry.client : Accumulated 2 events. Flush the clients.
+12112 : 2024-10-27 17:29:12,469 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+12112 : 2024-10-27 17:29:13,022 : INFO : telemetry.sender : Sending 9065 bytes
+12112 : 2024-10-27 17:29:13,023 : INFO : telemetry.sender : Finish uploading in 0.552679 seconds.
+16376 : 2024-10-27 17:55:26,514 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027175526216].
+16376 : 2024-10-27 17:55:26,515 : INFO : telemetry.records : 1 cache files to upload.
+16376 : 2024-10-27 17:55:26,516 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027175526216\cache into 1 records.
+16376 : 2024-10-27 17:55:26,517 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027175526216
+16376 : 2024-10-27 17:55:26,565 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+16376 : 2024-10-27 17:55:26,566 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+16376 : 2024-10-27 17:55:27,139 : INFO : telemetry.sender : Sending 4486 bytes
+16376 : 2024-10-27 17:55:27,140 : INFO : telemetry.sender : Finish uploading in 0.574164 seconds.
+9976 : 2024-10-27 17:59:19,756 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027175919374].
+9976 : 2024-10-27 17:59:19,757 : INFO : telemetry.records : 1 cache files to upload.
+9976 : 2024-10-27 17:59:19,758 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027175919374\cache into 1 records.
+9976 : 2024-10-27 17:59:19,759 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027175919374
+9976 : 2024-10-27 17:59:19,809 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+9976 : 2024-10-27 17:59:19,809 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+9976 : 2024-10-27 17:59:20,422 : INFO : telemetry.sender : Sending 4485 bytes
+9976 : 2024-10-27 17:59:20,422 : INFO : telemetry.sender : Finish uploading in 0.613874 seconds.
+4604 : 2024-10-27 18:13:17,134 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027181316789].
+4604 : 2024-10-27 18:13:17,134 : INFO : telemetry.records : 1 cache files to upload.
+4604 : 2024-10-27 18:13:17,135 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027181316789\cache into 1 records.
+4604 : 2024-10-27 18:13:17,136 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027181316789
+4604 : 2024-10-27 18:13:17,181 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+4604 : 2024-10-27 18:13:17,182 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+4604 : 2024-10-27 18:13:17,733 : INFO : telemetry.sender : Sending 4065 bytes
+4604 : 2024-10-27 18:13:17,735 : INFO : telemetry.sender : Finish uploading in 0.552808 seconds.
+10020 : 2024-10-27 18:32:47,074 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027183246734].
+10020 : 2024-10-27 18:32:47,075 : INFO : telemetry.records : 1 cache files to upload.
+10020 : 2024-10-27 18:32:47,075 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027183246734\cache into 1 records.
+10020 : 2024-10-27 18:32:47,076 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027183246734
+10020 : 2024-10-27 18:32:47,124 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10020 : 2024-10-27 18:32:47,124 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10020 : 2024-10-27 18:32:47,664 : INFO : telemetry.sender : Sending 4701 bytes
+10020 : 2024-10-27 18:32:47,665 : INFO : telemetry.sender : Finish uploading in 0.539526 seconds.
+8032 : 2024-10-27 18:33:48,653 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027183348343].
+8032 : 2024-10-27 18:33:48,654 : INFO : telemetry.records : 1 cache files to upload.
+8032 : 2024-10-27 18:33:48,655 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027183348343\cache into 1 records.
+8032 : 2024-10-27 18:33:48,655 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027183348343
+8032 : 2024-10-27 18:33:48,702 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+8032 : 2024-10-27 18:33:48,703 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+8032 : 2024-10-27 18:33:49,241 : INFO : telemetry.sender : Sending 4344 bytes
+8032 : 2024-10-27 18:33:49,243 : INFO : telemetry.sender : Finish uploading in 0.539554 seconds.
+15840 : 2024-10-27 18:37:03,222 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027183702709].
+15840 : 2024-10-27 18:37:03,229 : INFO : telemetry.records : 1 cache files to upload.
+15840 : 2024-10-27 18:37:03,230 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027183702709\cache into 1 records.
+15840 : 2024-10-27 18:37:03,232 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027183702709
+15840 : 2024-10-27 18:37:03,285 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+15840 : 2024-10-27 18:37:03,285 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+15840 : 2024-10-27 18:37:03,851 : INFO : telemetry.sender : Sending 4830 bytes
+15840 : 2024-10-27 18:37:03,852 : INFO : telemetry.sender : Finish uploading in 0.566078 seconds.
+6268 : 2024-10-27 18:39:26,878 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027183926532].
+6268 : 2024-10-27 18:39:26,879 : INFO : telemetry.records : 1 cache files to upload.
+6268 : 2024-10-27 18:39:26,880 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027183926532\cache into 1 records.
+6268 : 2024-10-27 18:39:26,880 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027183926532
+6268 : 2024-10-27 18:39:26,929 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+6268 : 2024-10-27 18:39:26,929 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+6268 : 2024-10-27 18:39:27,480 : INFO : telemetry.sender : Sending 4069 bytes
+6268 : 2024-10-27 18:39:27,480 : INFO : telemetry.sender : Finish uploading in 0.550991 seconds.
+6792 : 2024-10-27 18:43:08,250 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027184307928].
+6792 : 2024-10-27 18:43:08,251 : INFO : telemetry.records : 1 cache files to upload.
+6792 : 2024-10-27 18:43:08,251 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027184307928\cache into 1 records.
+6792 : 2024-10-27 18:43:08,252 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027184307928
+6792 : 2024-10-27 18:43:08,298 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+6792 : 2024-10-27 18:43:08,298 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+6792 : 2024-10-27 18:43:08,908 : INFO : telemetry.sender : Sending 4069 bytes
+6792 : 2024-10-27 18:43:08,910 : INFO : telemetry.sender : Finish uploading in 0.611928 seconds.
+668 : 2024-10-27 18:43:33,902 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027184333597].
+668 : 2024-10-27 18:43:33,902 : INFO : telemetry.records : 1 cache files to upload.
+668 : 2024-10-27 18:43:33,903 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027184333597\cache into 1 records.
+668 : 2024-10-27 18:43:33,904 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027184333597
+668 : 2024-10-27 18:43:33,947 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+668 : 2024-10-27 18:43:33,947 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+668 : 2024-10-27 18:43:34,522 : INFO : telemetry.sender : Sending 4834 bytes
+668 : 2024-10-27 18:43:34,523 : INFO : telemetry.sender : Finish uploading in 0.574891 seconds.
+9680 : 2024-10-27 18:45:19,757 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027184519450].
+9680 : 2024-10-27 18:45:19,757 : INFO : telemetry.records : 1 cache files to upload.
+9680 : 2024-10-27 18:45:19,758 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027184519450\cache into 1 records.
+9680 : 2024-10-27 18:45:19,759 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027184519450
+9680 : 2024-10-27 18:45:19,806 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+9680 : 2024-10-27 18:45:19,806 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+9680 : 2024-10-27 18:45:20,349 : INFO : telemetry.sender : Sending 4223 bytes
+9680 : 2024-10-27 18:45:20,350 : INFO : telemetry.sender : Finish uploading in 0.543479 seconds.
+15428 : 2024-10-27 20:20:15,916 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027202015368].
+15428 : 2024-10-27 20:20:15,917 : INFO : telemetry.records : 1 cache files to upload.
+15428 : 2024-10-27 20:20:15,917 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027202015368\cache into 1 records.
+15428 : 2024-10-27 20:20:15,922 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027202015368
+15428 : 2024-10-27 20:20:15,989 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+15428 : 2024-10-27 20:20:15,989 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+15428 : 2024-10-27 20:20:16,541 : INFO : telemetry.sender : Sending 4485 bytes
+15428 : 2024-10-27 20:20:16,542 : INFO : telemetry.sender : Finish uploading in 0.552630 seconds.
+3716 : 2024-10-27 20:21:45,028 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027202144710].
+3716 : 2024-10-27 20:21:45,028 : INFO : telemetry.records : 1 cache files to upload.
+3716 : 2024-10-27 20:21:45,029 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027202144710\cache into 1 records.
+3716 : 2024-10-27 20:21:45,030 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027202144710
+3716 : 2024-10-27 20:21:45,073 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3716 : 2024-10-27 20:21:45,074 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3716 : 2024-10-27 20:21:45,626 : INFO : telemetry.sender : Sending 4463 bytes
+3716 : 2024-10-27 20:21:45,627 : INFO : telemetry.sender : Finish uploading in 0.552199 seconds.
+336 : 2024-10-27 20:22:15,054 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027202214752].
+336 : 2024-10-27 20:22:15,055 : INFO : telemetry.records : 1 cache files to upload.
+336 : 2024-10-27 20:22:15,055 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027202214752\cache into 1 records.
+336 : 2024-10-27 20:22:15,056 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027202214752
+336 : 2024-10-27 20:22:15,100 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+336 : 2024-10-27 20:22:15,100 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+336 : 2024-10-27 20:22:15,642 : INFO : telemetry.sender : Sending 3990 bytes
+336 : 2024-10-27 20:22:15,643 : INFO : telemetry.sender : Finish uploading in 0.542489 seconds.
+10648 : 2024-10-27 20:22:24,116 : INFO : telemetry.main : Attempt start. Configuration directory [C:\Users\zamor\.azure]. Cache directory [C:\Users\zamor\.azure\telemetry\20241027202223809].
+10648 : 2024-10-27 20:22:24,116 : INFO : telemetry.records : 1 cache files to upload.
+10648 : 2024-10-27 20:22:24,117 : INFO : telemetry.records : Processed file C:\Users\zamor\.azure\telemetry\20241027202223809\cache into 1 records.
+10648 : 2024-10-27 20:22:24,119 : INFO : telemetry.records : Remove directory C:\Users\zamor\.azure\telemetry\20241027202223809
+10648 : 2024-10-27 20:22:24,166 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10648 : 2024-10-27 20:22:24,167 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10648 : 2024-10-27 20:22:24,730 : INFO : telemetry.sender : Sending 3993 bytes
+10648 : 2024-10-27 20:22:24,731 : INFO : telemetry.sender : Finish uploading in 0.563302 seconds.

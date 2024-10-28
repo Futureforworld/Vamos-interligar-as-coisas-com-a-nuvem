@@ -1,0 +1,5 @@
+CMD-LOG-LINE-BEGIN 9668 | 2024-10-27 20:21:43,641 | INFO | az_command_data_logger | command args: group create --name {} --location {}
+CMD-LOG-LINE-BEGIN 9668 | 2024-10-27 20:21:44,651 | ERROR | az_command_data_logger | (InvalidResourceLocation) The specified location 'YOUR_LOCATION' is invalid. A location must consist of characters, whitespace, digit, or following symbols '(,)'.
+Code: InvalidResourceLocation
+Message: The specified location 'YOUR_LOCATION' is invalid. A location must consist of characters, whitespace, digit, or following symbols '(,)'.
+CMD-LOG-LINE-BEGIN 9668 | 2024-10-27 20:21:44,651 | INFO | az_command_data_logger | exit code: 1

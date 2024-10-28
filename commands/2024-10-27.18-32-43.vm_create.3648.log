@@ -1,0 +1,4 @@
+CMD-LOG-LINE-BEGIN 3648 | 2024-10-27 18:32:43,741 | INFO | az_command_data_logger | command args: vm create --resource-group {} --name {} --image {} --admin-username {} --generate-ssh-keys
+CMD-LOG-LINE-BEGIN 3648 | 2024-10-27 18:32:46,680 | ERROR | az_command_data_logger | Invalid image "UbuntuLTS". Use a valid image URN, custom image name, custom image id, VHD blob URI, or pick an image from ['CentOS85Gen2', 'Debian11', 'OpenSuseLeap154Gen2', 'RHELRaw8LVMGen2', 'SuseSles15SP5', 'Ubuntu2204', 'Ubuntu2404', 'Ubuntu2404Pro', 'FlatcarLinuxFreeGen2', 'Win2022Datacenter', 'Win2022AzureEditionCore', 'Win2019Datacenter', 'Win2016Datacenter', 'Win2012R2Datacenter', 'Win2012Datacenter'].
+See vm create -h for more information on specifying an image.
+CMD-LOG-LINE-BEGIN 3648 | 2024-10-27 18:32:46,681 | INFO | az_command_data_logger | exit code: 1

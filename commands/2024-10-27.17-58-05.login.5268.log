@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 5268 | 2024-10-27 17:58:05,344 | INFO | az_command_data_logger | command args: login
+CMD-LOG-LINE-BEGIN 5268 | 2024-10-27 17:59:19,311 | INFO | az_command_data_logger | exit code: 0

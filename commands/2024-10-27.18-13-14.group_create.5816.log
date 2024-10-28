@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 5816 | 2024-10-27 18:13:14,952 | INFO | az_command_data_logger | command args: group create --name {} --location {}
+CMD-LOG-LINE-BEGIN 5816 | 2024-10-27 18:13:16,723 | INFO | az_command_data_logger | exit code: 0

@@ -1,0 +1,40 @@
+CMD-LOG-LINE-BEGIN 15280 | 2024-10-27 17:24:00,794 | INFO | az_command_data_logger | command args: login
+CMD-LOG-LINE-BEGIN 15280 | 2024-10-27 17:29:11,961 | ERROR | az_command_data_logger | The command failed with an unexpected error. Here is the traceback:
+CMD-LOG-LINE-BEGIN 15280 | 2024-10-27 17:29:11,965 | ERROR | az_command_data_logger | [Errno 22] Invalid argument: 'C:\\Users\\zamor\\.azure\\msal_token_cache.bin'
+Traceback (most recent call last):
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\knack/cli.py", line 233, in invoke
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/commands/__init__.py", line 666, in execute
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/commands/__init__.py", line 733, in _run_jobs_serially
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/commands/__init__.py", line 703, in _run_job
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/commands/__init__.py", line 336, in __call__
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/commands/command_operation.py", line 121, in handler
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/command_modules/profile/custom.py", line 165, in login
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/_profile.py", line 203, in login
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/_profile.py", line 797, in find_using_common_tenant
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/_profile.py", line 850, in find_using_specific_tenant
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/paging.py", line 123, in __next__
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/paging.py", line 75, in __next__
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/mgmt/resource/subscriptions/v2022_12_01/operations/_operations.py", line 526, in get_next
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/_base.py", line 213, in run
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/_base.py", line 70, in send
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/_base.py", line 70, in send
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/_base.py", line 70, in send
+  [Previous line repeated 2 more times]
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/mgmt/core/policies/_base.py", line 47, in send
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/policies/_redirect.py", line 181, in send
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/policies/_retry.py", line 467, in send
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/policies/_authentication.py", line 113, in send
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/core/pipeline/policies/_authentication.py", line 90, in on_request
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\azure/cli/core/auth/msal_credentials.py", line 60, in get_token
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal/application.py", line 1416, in acquire_token_silent_with_error
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal/application.py", line 1439, in _acquire_token_silent_with_error
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal/application.py", line 1569, in _acquire_token_silent_from_cache_and_possibly_refresh_it
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal/application.py", line 1595, in _process_broker_response
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal/token_cache.py", line 397, in add
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal/token_cache.py", line 193, in add
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal/token_cache.py", line 317, in __add
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal_extensions/token_cache.py", line 69, in modify
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal_extensions/persistence.py", line 215, in save
+  File "D:\a\_work\1\s\build_scripts\windows\artifacts\cli\Lib\site-packages\msal_extensions/persistence.py", line 137, in _open
+OSError: [Errno 22] Invalid argument: 'C:\\Users\\zamor\\.azure\\msal_token_cache.bin'
+CMD-LOG-LINE-BEGIN 15280 | 2024-10-27 17:29:11,968 | INFO | az_command_data_logger | exit code: 1

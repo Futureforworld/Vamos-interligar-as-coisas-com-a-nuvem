@@ -1,0 +1,3 @@
+CMD-LOG-LINE-BEGIN 5536 | 2024-10-27 18:33:46,417 | INFO | az_command_data_logger | command args: vm create --resource-group {} --name {} --image {} --admin-username {} --generate-ssh-keys
+CMD-LOG-LINE-BEGIN 5536 | 2024-10-27 18:33:48,293 | ERROR | az_command_data_logger | admin user name cannot contain upper case character A-Z, special characters \/"[]:|<>+=;,?*@#()! or start with $ or -
+CMD-LOG-LINE-BEGIN 5536 | 2024-10-27 18:33:48,293 | INFO | az_command_data_logger | exit code: 1

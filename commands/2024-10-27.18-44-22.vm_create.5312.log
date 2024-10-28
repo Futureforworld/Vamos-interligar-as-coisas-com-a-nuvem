@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 5312 | 2024-10-27 18:44:22,381 | INFO | az_command_data_logger | command args: vm create --resource-group {} --name {} --image {} --admin-username {} --generate-ssh-keys --size {} --location {}
+CMD-LOG-LINE-BEGIN 5312 | 2024-10-27 18:45:19,401 | INFO | az_command_data_logger | exit code: 0
