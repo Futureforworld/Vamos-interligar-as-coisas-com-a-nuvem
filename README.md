@@ -19,5 +19,5 @@ Este projeto foi desenvolvido para o guia prático de integração com a nuvem A
 
 ## Autor
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Fernando].
 
